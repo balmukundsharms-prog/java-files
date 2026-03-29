@@ -32,6 +32,6 @@ public class pattern{
             System.out.println("");
         }
         
-        System.out.println("version 1");
+        System.out.println("version 2");
     }
 }
